@@ -1,0 +1,4 @@
+Name            : Roll number :         Remarks : 
+Muhammad Harris Mirza : 24F6124 : Approved Cyber team
+Muhammad Anas : 24F6125 : Approved robotics team 
+Muhammad Usman : 24F6118 : Approved robotics team 
