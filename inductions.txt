@@ -1,38 +1,56 @@
-Name            : Roll number :         Remarks : 
-Muhammad Harris Mirza : 24F6124 : Approved Cyber team
-Muhammad Anas : 24F6125 : Approved robotics team 
-Muhammad Usman : 24F6118 : Approved robotics team 
-Noor fatima : 24F 6013 : can design posters and knows about editing 
-Halima sadia : 24F-6045 : graphics and photo editing video editing ... good portfolio 
-Muhammad Anas : 24F6119 : Approved robotics team 
-Mohibur Rehman : 24F6023 : Software development head quite a beefy profile 
-Ali Raheel : 24F 6109 : Event head has prior expereince cake hy 
-Muhammad Huzaif Asif : 24F6101 : Event head kinda sorta okay not too good 
-Abdul Mohaimin : 24F6027 : approved robotics team 
-Tayyaba Bashir : 23F6082        : good profile can design certs and merch which is a very good thing 
-Fatima Rasheed : 24F6095        : social media team approved
-Natasha        : 24F6097        : robotics team approved 
-Tanzeela Tariq : 24F6099        : robotics team approved 
-hadia awan     : 24F0673        : Ai Engineering team approed 
-Hamna Faisal   : 24F0726        : AI Egineering team approved
-Muhammad Hassaan Chaudary : 22F3060 : Good candidate 
-Hussain Ali : 23F 6063 : consideration 
-Muhanmmad Abu zar : 23F 3023 : robotics head = didn't write his own code 
-Hamza Talib  : 24F 6006 :  software developmment 
-Momal Eman : 23F 6005 : Management team approved 
-Awais ali : 23F6080 : marketing head ( aik hi banda aya abhi tak karna paray ga shayad )
-Esha Iftikhar Hussien : 23F 6022 : social media head ( strong candidate )
-Wania : 23F6000 : mangement team and robotics . 
-Ahmed Ali : 24F0708 : robotics approved 
-Muhammad Ahmed : 23F 6039 : logistics and marketing 
-Shayan Zawar : 22F3410 : Ai_engineering head - worthy candidate 
-Muhammad Umer Raza 22F 3625 :  good candidate 
-Saba Ashraf : 24F3064 : robotics team approved 
-Amtal Qadoos : 23F6106 event management approved 
-Abdur Rehman : 24F3056 : software developement team apprved 
-Muhammad Soban : 24F6047 : management team approved 
-Osama Tariq : 24F6056 : robotics team approved 
-Mahnoor Younus : 24F6134 : robotics team approved 
-Abubakar Adeel : 24F6005 : Ai Engineer team approved 
-Muhammad Shoaib : 24F6063 : robotics team approved 
-Armaz Fatima : 24F6094 : nah bhai team mien bus 
+Name                  : Roll No.   : Remarks : 
+Muhammad Harris Mirza : 24F6124 EE : Approved Cyber team
+Muhammad Anas         : 24F6125 EE : Approved robotics team 
+Muhammad Usman        : 24F6118 EE : Approved robotics team 
+Noor fatima           : 24F6013 EE : can design posters and knows about editing 
+Halima sadia          : 24F6045 EE : graphics and photo editing video editing ... good portfolio 
+Muhammad Anas         : 24F6119 EE : Approved robotics team 
+Mohibur Rehman        : 24F6023 EE : Software development head candidate has advance level of computer systems linux kernel 
+Ali Raheel            : 24F6109 EE : Event head has prior expereince in conducting beaconfest  
+Muhammad Huzaif Asif  : 24F6101 EE : Event head good profle but not good enough 
+Abdul Mohaimin        : 24F6027 EE : approved robotics team 
+Tayyaba Bashir        : 23F6082 EE : good profile can design certs and merch which is a very good thing has experience in doing social media management with organizations 
+Fatima Rasheed        : 24F6095 EE : social media team approved
+Natasha               : 24F6097 EE : robotics team approved 
+Tanzeela Tariq        : 24F6099 EE : robotics team approved 
+hadia awan            : 24F0673 CS : Ai Engineering team approed 
+Hamna Faisal          : 24F0726 CS : AI Egineering team approved
+Muhammad Hassaan      : 22F3060 CS : Good candidate knows cross platform app development with flutter
+Hussain Ali           : 23F6063 EE : good candidate but seems like won't be able to manage studies and society affairs 
+Muhanmmad Abu zar     : 23F3023 CS : robotics head = didn't write his own code doesn't know how to do circuit connections 
+Hamza Talib           : 24F6006 EE : software developmment 
+Momal Eman            : 23F6005 EE : Management team approved 
+Awais ali             : 23F6080 EE : marketing head has no prior expereince
+Esha Iftikhar Hussien : 23F6022 EE : Logistics head is responsible good candidate
+Wania                 : 23F6000 EE : mangement team and robotics . 
+Ahmed Ali             : 24F0708 CS : robotics approved 
+Muhammad Ahmed        : 23F6039 EE : logistics and marketing ( over-confident-lacks manners)
+Shayan Zawar          : 22F3410 CS : Ai_engineering head - worthy candidate has knowledge of machine learning and deep learning models
+Muhammad Umer Raza    : 22F3625 SE : good candidate knows surface level developement
+Saba Ashraf           : 24F3064 CS : robotics team approved 
+Amtal Qadoos          : 23F6106 EE : event management approved 
+Abdur Rehman          : 24F3056 CS : software developement team apprved 
+Muhammad Soban        : 24F6047 EE : management team approved 
+Osama Tariq           : 24F6056 EE : robotics team approved 
+Mahnoor Younus        : 24F6134 EE : robotics team approved 
+Abubakar Adeel        : 24F6005 EE : Ai Engineer team approved 
+Muhammad Shoaib       : 24F6063 EE : robotics team approved 
+Armaz Fatima          : 24F6094 EE : Social Media team
+Naila Asif            : 24F3076 CS : Software Development Team 
+
+
+
+Candidates favored by executive body
+
+Software Development Head   Mohibur Rehman   EE  24 A brilliant student profound knowledge of how computers work uses arch linux
+                                                    has studied the linux kernel knows python,ruby,pearl,c,c++ languages
+Logistics Head:             Eisha Iftikhar   EE  23 A Cadet Firm Confident & Responsible, She will carry her duties responsibly 
+Cyber Security Head:        Adeel Umar       CS  22 Has Certifications from cisco networking academy intermediate knowledge of cyber security 
+                                                    is dedicated in his passion for this field 
+Management Head:            Ali Raheel       EE  24 Has been conducting beaconfest for the past 2 years is confident and can carry himself well 
+Marketing Head: 24F-6100    Hassan Irfan     EE  24 Has been in the delegation party for beaconfest gujranwalla going to different schools and colleges 
+                                                    for promotion
+Social Media Head:          Tayyaba Bashir   EE  23 Has been working with organizations as a free lancer in social media management
+                                                    can also design merch and certificates 
+Ai Head:                    Shayan Zawar     CS  22 has a good undestanding of machine learning concepts and research being conducted on AI
+Robotics Head:              Ali arshman      EE  22 Has worked on electronics projects related to electric vehicle 
